@@ -24,7 +24,7 @@
 const PAGE_ACCESS_TOKEN = process.env.PAGE_ACCESS_TOKEN;
 // Imports dependencies and set up http server
 const
-    axios = require('axios'),
+    request = require('request'),
     express = require('express'),
     body_parser = require('body-parser'),
     app = express().use(body_parser.json()); // creates express http server
@@ -170,7 +170,7 @@ function callSendAPI(sender_psid, response) {
     }
 
     // Send the HTTP request to the Messenger Platform
-    axios({
+    request({
         "uri": "https://graph.facebook.com/v2.6/me/messages",
         "qs": { "access_token": PAGE_ACCESS_TOKEN },
         "method": "POST",
