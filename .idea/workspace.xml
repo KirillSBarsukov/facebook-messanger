@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8015687c-1480-4cbf-96f9-bf4ef646819b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Avetti_code/c10spring5/AvettiComAdmin10Module/AvettiComAdminModule-c95.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Avetti_code/c10spring5/AvettiComAdmin10Module/AvettiComAdminModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Avetti_code/c10spring5/AvettiComGraphQLModule/AvettiComGraphQLModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Avetti_code/c10spring5/commerce9.5/commerce-core.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Avetti_code/c10spring5/commerce9.5/commerce9.5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA/JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA/src/Linkedin/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA/src/Linkedin/CustomerReadOnly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA/src/Linkedin/CustomerRecords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyProjects/MyProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyProjects/SpringJavaHibernateGraphql/core/graphql/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyProjects/SpringJavaHibernateGraphql/core/src/main/java/com/springhbgraphql/core/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyProjects/SpringJavaHibernateGraphql/core/src/main/java/com/springhbgraphql/core/dao/CourseDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyProjects/SpringJavaHibernateGraphql/core/src/main/java/com/springhbgraphql/core/dao/TeacherDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyProjects/SpringJavaHibernateGraphql/core/src/main/java/com/springhbgraphql/core/domain/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyProjects/SpringJavaHibernateGraphql/core/src/main/java/com/springhbgraphql/core/domain/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyProjects/SpringJavaHibernateGraphql/core/src/main/java/com/springhbgraphql/core/services/DataFillerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyProjects/demo/src/main/java/com/example/demo/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyProjects/graphql/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyProjects/graphql/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyProjects/graphql/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyProjects/graphql/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyProjects/graphql/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyProjects/graphql/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyProjects/graphql/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyProjects/graphql/src/main/java/com/core/graphql/GraphqlApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyProjects/graphql/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyProjects/graphql/src/test/java/com/core/graphql/GraphqlApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactTutorials/react-jest/.prettierrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactTutorials/react-jest/Utils/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactTutorials/react-jest/src/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactTutorials/react-jest/src/components/header/header.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactTutorials/react-jest/src/components/header/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactTutorials/react-jest/src/components/header/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactTutorials/react-jest/src/components/headline/headline.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactTutorials/react-jest/src/components/headline/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactTutorials/react-jest/src/setupTests.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SummerSem/JavaScript/Bonus-Lesson-Student/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SummerSem/JavaScript/Bonus-Lesson-Student/controllers/ProductsController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SummerSem/JavaScript/Bonus-Lesson-Student/models/product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SummerSem/JavaScript/Bonus-Lesson-Student/routes/products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SummerSem/JavaScript/Bonus-Lesson-Student/views/products/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Avetti_code/c10spring3/AvettiComAdmin10Module/AvettiComAdminModule-c95.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Avetti_code/c10spring3/AvettiComAdmin10Module/AvettiComAdminModule-c95.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Avetti_code/c10spring3/commerce9.5/commerce9.5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Avetti_code/c10spring3/commerce9.5/commerce9.5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SummerSem/JavaScript/bloggingapp/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../SummerSem/JavaScript/bloggingapp/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SummerSem/JavaScript/bloggingapp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../SummerSem/JavaScript/bloggingapp/package-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1iYGqItt0C5uvk39bi5cyD8y6if" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.remoteExternalTools" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8015687c-1480-4cbf-96f9-bf4ef646819b" name="Default Changelist" comment="" />
+      <created>1602077301175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602077301175</updated>
+      <workItem from="1602077302281" duration="34000" />
+      <workItem from="1602077667328" duration="802000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
